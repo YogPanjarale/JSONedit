@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mb21/JSONedit.git"
+    "url": "git+https://github.com/yogpanjarale/JSONedit.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mb21/JSONedit/issues"
+    "url": "https://github.com/yogpanjarale/JSONedit/issues"
   },
-  "homepage": "https://github.com/mb21/JSONedit#readme",
+  "homepage": "https://github.com/yogpanjarale/JSONedit#readme",
   "dependencies": {
       "bootstrap": "^3.3",
       "angular": "^1.2",
